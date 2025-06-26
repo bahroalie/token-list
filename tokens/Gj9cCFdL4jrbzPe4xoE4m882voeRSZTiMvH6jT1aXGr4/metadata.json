@@ -1,6 +1,11 @@
 {
   "name": "KomodoVerse",
   "symbol": "KMDZ",
+  "description": "The last dinosaur of the archipelago. KomodoVerse (KMDZ) is a meme coin with a mission to support conservation and education.",
+  "image": "https://github.com/bahroalie/token-list/raw/main/tokens/Gj9cCFdL4jrbzPe4xoE4m882voeRSZTiMvH6jT1aXGr4/logo.png",
   "decimals": 9,
-  "logoURI": "https://github.com/bahroalie/komodo/raw/main/logo.png"
+  "extensions": {
+    "website": "https://x.com/komodoverze",
+    "twitter": "https://x.com/komodoverze"
+  }
 }
